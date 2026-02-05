@@ -1,4 +1,4 @@
-# top-conference-best-papers
+# Top-Conference-Best-Papers
 This repo collects Best Paper award papers from ICLR, NeurIPS, ICML, ACL, EMNLP, NAACL, AAAI, etc., from 2022 to 2026.
 
 ## How to use this list
